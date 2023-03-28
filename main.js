@@ -1,42 +1,42 @@
  const allStories = [
     {
-        thumbUrl: "img1.png",
-        imageUrl: "img1.png",               
+        thumbUrl: "image/img1.png",
+        imageUrl: "image/img1.png",               
         title: "Title No. 1",
     },
     {
-        thumbUrl: "img2.png",
-        imageUrl: "img2.png",
+        thumbUrl: "image/img2.png",
+        imageUrl: "image/img2.png",
         title: "Title No. 2",
     },
     {
-        thumbUrl: "img3.png",
-        imageUrl: "img3.png",
+        thumbUrl: "image/img3.png",
+        imageUrl: "image/img3.png",
         title: "Title No. 3",
     },
     {
-        thumbUrl: "img4.png",
-        imageUrl: "img4.png",
+        thumbUrl: "image/img4.png",
+        imageUrl: "image/img4.png",
         title: "Title No. 4",
     },
     {
-        thumbUrl: "img5.jpg",
-        imageUrl: "img5.jpg",
+        thumbUrl: "image/img5.jpg",
+        imageUrl: "image/img5.jpg",
         title: "Title No. 5",
     },
     {
-        thumbUrl: "img6.png",
-        imageUrl: "img6.png",
+        thumbUrl: "image/img6.png",
+        imageUrl: "image/img6.png",
         title: "Title No. 6",
     },
     {
-        thumbUrl: "img7.jpg",
-        imageUrl: "img7.jpg",
+        thumbUrl: "image/img7.jpg",
+        imageUrl: "image/img7.jpg",
         title: "Title No. 7",
     },
     {
-        thumbUrl: "img8.webp",
-        imageUrl: "img8.webp",
+        thumbUrl: "image/img8.webp",
+        imageUrl: "image/img8.webp",
         title: "Title No. 8",
     },
  ];
